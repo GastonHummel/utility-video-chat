@@ -57,8 +57,8 @@ var Translations = {
       icon: 'share'
     },
     button3: {
-      url: 'https://persons.dcsdemo.nl/home',
-      label: 'Mortgage\nDocuments',
+      url: 'https://utilities.dcsdemo.nl/home',
+      label: 'EZ Energy\nDocuments',
       icon: 'website'
     },
     button4: {
@@ -94,7 +94,7 @@ var Translations = {
    */
   ChapterSettings: [
     {
-      label: 'Forbearance Intro',
+      label: 'Bill Details',
       states: [
         {
           cardId: '5e2b69f7',
@@ -103,10 +103,10 @@ var Translations = {
       ]
     },
     {
-      label: 'Overview &amp; Calculator',
+      label: 'Calculator &amp; Payments',
       states: [
         {
-          cardId: '2b800411',
+          cardId: '960cab21',
           width: 30
         }
       ]
@@ -115,7 +115,7 @@ var Translations = {
       label: 'Summary',
       states: [
         {
-          cardId: '321a4f9c',
+          cardId: '52d86216',
           width: 30
         }
       ]
